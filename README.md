@@ -10,6 +10,9 @@ Laporan praktikum ini dibuat untuk memenuhi tugas mata kuliah **Pemrograman Web*
 ### 1. Membuat Dokumen HTML (`lab2_css_dasar.html`)
 Langkah awal adalah membuat struktur dasar dokumen HTML yang berisi elemen header, navigasi, dan konten utama dengan ID dan Class.
 
+<img width="1516" height="808" alt="image" src="https://github.com/user-attachments/assets/349e9dd8-2fca-4337-b164-e7de9b001247" />
+
+
 ### 2. Mendeklarasikan CSS Internal
 Menambahkan tag `<style>` di bagian `<head>` dokumen HTML untuk mengatur *styling* dasar seperti jenis font, *header*, dan tag `h1`.
 
